@@ -1,0 +1,19 @@
+{
+  "name": "jdr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YvanGhomman/JDR-ARIA-FennRhir.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YvanGhomman/JDR-ARIA-FennRhir/issues"
+  },
+  "homepage": "https://github.com/YvanGhomman/JDR-ARIA-FennRhir#readme"
+}
